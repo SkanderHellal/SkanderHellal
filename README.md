@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SkanderHellal
-- 👀 I’m interested in machine learning and deep learning applied tp Natural Language Processing use cases
+- 👀 I’m interested in machine learning and deep learning applied to Natural Language Processing use cases
 - 💞️ I’m looking to collaborate on open source project related to NLP
 - 📫 How to reach me hellalskander8@gmail.com
 
